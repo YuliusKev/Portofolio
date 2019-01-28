@@ -1,0 +1,4 @@
+#Wed Jan 16 16:28:49 WIB 2019
+base.0=/Users/kreatifcity/Desktop/Belajar2/MovieBelajar/CheckMovies/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>99462190-9B02-4FAD-A53B-5CD23AC8A971</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99462190-9B02-4FAD-A53B-5CD23AC8A971.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CheckMovies project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CheckMovies</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CheckMovies with scheme CheckMovies and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569322060.675156</real>
+			<key>timeStoppedRecording</key>
+			<real>569322061.84244502</real>
+			<key>title</key>
+			<string>Building project CheckMovies with scheme CheckMovies and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>99462190-9B02-4FAD-A53B-5CD23AC8A971</string>
+		</dict>
+		<key>F9218CF3-B1E2-4C77-8CA7-3DDD125F0057</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9218CF3-B1E2-4C77-8CA7-3DDD125F0057.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CheckMovies project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CheckMovies</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CheckMovies with scheme CheckMovies and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569321981.32648695</real>
+			<key>timeStoppedRecording</key>
+			<real>569321986.34964705</real>
+			<key>title</key>
+			<string>Building project CheckMovies with scheme CheckMovies and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F9218CF3-B1E2-4C77-8CA7-3DDD125F0057</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
